@@ -1,5 +1,7 @@
 # Bullet Variants
 
+> **This plugin is now part of [Vault Management](https://github.com/VeryRandomness/obsidian-vault-management)**, which combines bullet variants, color swatches, bulk property editing and theme updates in one plugin. This repo is archived and no longer updated.
+
 An [Obsidian](https://obsidian.md) plugin with extra bullet styles for lists. It only changes how bullets look; your notes keep exactly what you type.
 
 | You type | Bullet shown |
